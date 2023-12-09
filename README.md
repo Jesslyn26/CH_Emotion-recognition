@@ -12,5 +12,5 @@ An emotion recognition program that can predict emotions (happy, sad, angry, dis
 - convolutional array (2D) = filter and multiplying the neighboring values or elements into a 2-d inputs (3x3)
 - Max pooling = selecting the maximum elements for each region 
 - Dropout = deactivate a portion of inputs or nodes during training
-- Flatten = converting data to 1 dimenton in order to feed it to the next layer
+- Flatten = converting data to 1 dimention in order to feed it to the next layer
 - Dense = connecting all of the node or neurons that recieve input as one output (happy, sad, angry, disgust, and fear)
